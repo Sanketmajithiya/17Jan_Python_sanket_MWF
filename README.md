@@ -1,5 +1,5 @@
-# 17Jan_Python_Brijesh_MWF
-17Jan_Python_Brijesh_MWF
+# 17Jan_Python_Sanket_MWF
+17Jan_Python_Sanket_MWF
 
 
 ## What is pep8?
