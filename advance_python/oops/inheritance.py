@@ -87,7 +87,7 @@ single, multiple, multi level, herarchical, hybrid
 
 # class A:
 #     def a(self):
-#         print("I anf from class A")
+#         print("I anf from class A") 
 # class Al(A):
 #     def al(self):
 #         print("I anf from class Al")
