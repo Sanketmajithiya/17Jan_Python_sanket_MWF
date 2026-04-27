@@ -13,7 +13,7 @@ nums = {1,2,3,4,5,1,1,1,1}
 # nums.add(14)
 # nums.add(15)
 # print(nums)
-# # print(nums[0])
+# # print(nums[0])  # indexing are not allowed Error aayega 
 
 # f_set = frozenset(nums)
 
